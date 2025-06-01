@@ -7,11 +7,11 @@
     Comentários foram incluídos para facilitar futuras modificações.
   -->
   <info>
-    <title>ASTM Style Manual 2024 (Custom)</title>
+    <title>ASTM Style 2024</title>
     <id>http://www.zotero.org/styles/astm-style-manual-2024</id>
     <link href="http://www.astm.org/" rel="documentation"/>
     <author>
-      <name>Fabricio Borghi (custom via ChatGPT)</name>
+      <name>FTB</name>
     </author>
     <category citation-format="numeric"/>
     <category field="engineering"/>
